@@ -13,4 +13,8 @@ https://youtu.be/MrDnlJncr7A
 
 ## Checkpint 3:
 https://youtu.be/92GBzaImHlY
+
+## Checkpint 4:
+https://youtu.be/QhL74HWlKb4
+For more information please take a look at the slides. 
  
