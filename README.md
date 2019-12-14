@@ -25,6 +25,6 @@ Here you can see the experiment using Oculus Rift S, but unfortunately the quali
 https://youtu.be/WrTWDjiP3xA
 
 ## Checkpint 6:
-There is no new update for my project. I already showed the demo and I am working on my report.  
+There is no new update for my project. I've already showed the demo and I am working on my report.  
 
 
