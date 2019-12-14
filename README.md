@@ -24,4 +24,7 @@ https://youtu.be/76iQgU2Yi9A
 Here you can see the experiment using Oculus Rift S, but unfortunately the quality of sound is terrible (It is Aditya's machine's fault  :D).
 https://youtu.be/WrTWDjiP3xA
 
+## Checkpint 6:
+There is no new update for my project. I already showed the demo and I am working on my report.  
+
 
